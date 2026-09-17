@@ -1,6 +1,6 @@
 # DBI Oracle Database — GitHub Codespaces Setup
  
-Oracle Free 23c Datenbank für den DBI-Unterricht an der HTL Leonding, betrieben via GitHub Codespaces. Kein lokales Docker oder BIOS-Setup nötig.
+Oracle Free 23c Datenbank für den DBI-Unterricht, betrieben via GitHub Codespaces. Kein lokales Docker oder BIOS-Setup nötig.
  
 ---
  
